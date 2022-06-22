@@ -22,4 +22,4 @@ Resources:
 Outputs:
   TableName:
     Value: !Ref "chaliceDemo"
-    Description: Name of the newly created DynamoDB table olis
+    Description: Name of the newly created DynamoDB table olis 2
